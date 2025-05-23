@@ -1,0 +1,338 @@
+{
+    "name": "Green Office Park (GOP)",
+    "latitude": -6.301616,
+    "longitude": 106.651096,
+    "imageName": null,
+    "subAreas": [
+        {
+            "name": "GOP 9 - Green Eatery",
+            "latitude": -6.302076845564232,
+            "longitude": 106.65254323734639,
+            "stalls": [
+                {
+                    "priceLevelString": "$$$",
+                    "name": "Bakso Bakwan Malang Josss",
+                    "description": "A specialty meatball and fritter stall from Malang, offering both vegetarian and non‑vegan options.",
+                    "imageName": "Bakso Bakwan Malang Josss",
+                    "items": [
+                        {
+                            "priceInK": 15.0,
+                            "name": "Baby Fish Crispy",
+                            "description": "Crispy fried baby fish, seasoned with spices, offering a crunchy and flavorful snack.",
+                            "imageName": "f8cbc478795faa79999eea73a27dbdc168c7247d"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Bawang Goreng",
+                            "description": "Crispy fried shallots, a popular topping that adds flavor and crunch to various dishes.",
+                            "imageName": "3c8e193dc41a3c4a265d56b1b452c06622cb7c5d"
+                        },
+                        {
+                            "priceInK": 10.0,
+                            "name": "Kentang Mustofa",
+                            "description": "Spicy fried potatoes seasoned with a blend of Indonesian spices, offering a delightful crunch.",
+                            "imageName": "efdccd19ff61524fae8871adb2cfc80c3a999d86"
+                        },
+                        {
+                            "priceInK": 4.0,
+                            "name": "Kerupuk Ikan Bangka",
+                            "description": "Crispy fish crackers from Bangka, perfect as a snack or side dish.",
+                            "imageName": "22667aa6b5cf1204895b25a7eb4ca2488a7fec5a"
+                        },
+                        {
+                            "priceInK": 20.0,
+                            "name": "Asinan Buah",
+                            "description": "A refreshing fruit salad with a tangy dressing, perfect for a light snack.",
+                            "imageName": "692bfe3198cf201f013cff48ca82bef1f27f40c1"
+                        },
+                        {
+                            "priceInK": 20.0,
+                            "name": "Asinan Sayur",
+                            "description": "A salad of mixed vegetables in a tangy dressing, providing a refreshing and healthy option.",
+                            "imageName": "3bd7bf3e96188e99d4405ee098d0375b6e5ad609"
+                        },
+                        {
+                            "priceInK": 17.0,
+                            "name": "Ikan Woku",
+                            "description": "Fish cooked in a spicy and aromatic sauce, offering a rich and flavorful dish.",
+                            "imageName": "313da77cc61dad51e2ac90e02a25cb1188ac45fe"
+                        },
+                        {
+                            "priceInK": 17.0,
+                            "name": "Ikan Bakar Bumbu",
+                            "description": "Grilled fish marinated in spices, providing a smoky and savory flavor.",
+                            "imageName": "be11def31418945319cbd210601763b65c4b40df"
+                        },
+                        {
+                            "priceInK": 17.0,
+                            "name": "Ikan Bakar Dabu Dabu",
+                            "description": "Grilled fish served with a spicy salsa, offering a fresh and zesty flavor.",
+                            "imageName": "625ac013265f69fa25fa231310566aa9b9f8519b"
+                        },
+                        {
+                            "priceInK": 20.0,
+                            "name": "Sup Tom Yum",
+                            "description": "A spicy and sour soup with seafood, known for its bold flavors and aromatic herbs.",
+                            "imageName": "fca0908112268bfd54de3009c39c7fe7b92abd32"
+                        },
+                        {
+                            "priceInK": 5.0,
+                            "name": "Nasi Putih",
+                            "description": "Steamed white rice, a staple in Indonesian cuisine, served as a side to complement various dishes.",
+                            "imageName": "f61ccbd3e48b0ac9a8b58f4d5cf2ac190ab6ee9e"
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Urat Komplit",
+                            "description": "A complete meatball dish with various ingredients, offering a hearty and satisfying meal.",
+                            "imageName": "5ec46db321c9ff1b7806506ad38d54f6d77e49b6"
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Rawit Komplit",
+                            "description": "Spicy meatballs served with a variety of toppings, perfect for those who love heat.",
+                            "imageName": "6878b891a8899156f8630df8a0eaf744f2192319"
+                        },
+                        {
+                            "priceInK": 22.0,
+                            "name": "Bakso Urat",
+                            "description": "Traditional meatballs made with a mix of beef and spices, offering a rich flavor.",
+                            "imageName": "7d3b2a570215f239db6e97152a8d19110bf4317e"
+                        },
+                        {
+                            "priceInK": 22.0,
+                            "name": "Bakso Rawit",
+                            "description": "Spicy meatballs that pack a punch, perfect for those who enjoy a bit of heat.",
+                            "imageName": "a399f3374d5cb1faca14205d48ba77db61b4ab4e"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Bakso Goreng",
+                            "description": "Fried meatballs, crispy on the outside and tender on the inside, a delicious snack.",
+                            "imageName": "56d1f005c29fff844800e9d73812be28c6d11e88"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Pangsit Goreng",
+                            "description": "Crispy fried dumplings filled with savory ingredients, perfect as a snack or appetizer.",
+                            "imageName": "e3110757a6bb9d37a653e6606a122cd88bdbd3ab"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Risol",
+                            "description": "Fried pastry filled with a mix of savory ingredients, offering a crunchy and flavorful bite.",
+                            "imageName": "84de1e65f253dbb0b89127e6a88d64207a27d611"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Siomay Kecil",
+                            "description": "Small steamed dumplings filled with meat and vegetables, served with a spicy sauce.",
+                            "imageName": "88e9d0f8a995474a7bef371284f0ce4ca593ccae"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Pilus",
+                            "description": "Fried dough balls, a popular snack that is crispy and light.",
+                            "imageName": "6ae06f3e33ed5fe4add34721ec7bd074614c4a8f"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Tahu Coklat",
+                            "description": "Fried tofu with a crispy exterior, perfect for dipping in sauces.",
+                            "imageName": "e6f6ee4b56be3bcb431e46df8b36ff0a9b6c639b"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Tahu Putih",
+                            "description": "Plain fried tofu, a versatile ingredient that adds protein and texture to any meal.",
+                            "imageName": "104bd4a495b99c410395cc817c47779bd7d16ef2"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Pangsit Rebus",
+                            "description": "Boiled dumplings filled with savory ingredients, offering a soft and tender texture.",
+                            "imageName": "09f1d31e4f6c0e3c4114bd2a2390aa4e61246ad5"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Bakwan Malang Komplit",
+                            "description": "A complete dish of Malang-style meatballs served with various toppings and sauces.",
+                            "imageName": "cc6ac05e37a3a00abeb5ea484092bc0e88152eaa"
+                        }
+                    ]
+                },
+                {
+                    "priceLevelString": "$$",
+                    "name": "Kedai Soto Pak Gembul",
+                    "description": "Description for Kedai Soto Pak Gembul",
+                    "imageName": "Kedai Soto Pak Gembul",
+                    "items": [
+                        {
+                            "priceInK": 5.0,
+                            "name": "Nasi Putih",
+                            "description": "Steamed white rice, a staple in Indonesian cuisine, served as a side to complement various dishes.",
+                            "imageName": "12aaf260e95640501a9f2b4b6088b952a7c9ef09"
+                        },
+                        {
+                            "priceInK": 13.0,
+                            "name": "Dimsum isi 4",
+                            "description": "A delightful serving of four pieces of dim sum, filled with a variety of savory ingredients.",
+                            "imageName": "d15ee52b43174cdb125dcaf948c36f08656b29fe"
+                        },
+                        {
+                            "priceInK": 20.0,
+                            "name": "Soto Ayam dan Nasi",
+                            "description": "A hearty chicken soup served with rice, flavored with aromatic spices and herbs.",
+                            "imageName": "206d48e4cb85464b4e285e9736da6ef6f7981681"
+                        },
+                        {
+                            "priceInK": 17.0,
+                            "name": "Soto Ayam",
+                            "description": "Traditional chicken soup, rich in flavor and served with a side of rice.",
+                            "imageName": "552b652e50549e993d51171d7b579c95852449e5"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Tempe",
+                            "description": "Fried tempeh, a popular Indonesian snack, known for its crunchy texture and nutty flavor.",
+                            "imageName": "7c9517656139a49bee5ddfb6fa2d5d984c84032d"
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Tahu",
+                            "description": "Fried tofu, a versatile ingredient that adds protein and texture to any meal.",
+                            "imageName": "00188d6b713d7546d2ae4b67bace972458de3ac7"
+                        },
+                        {
+                            "priceInK": 15.0,
+                            "name": "Pecel dan Nasi",
+                            "description": "A traditional dish of mixed vegetables served with rice and a spicy peanut sauce.",
+                            "imageName": "0a3edad97a8bd5efd1a8f6787e69322d9fa70aaa"
+                        },
+                        {
+                            "priceInK": 12.0,
+                            "name": "Pecel",
+                            "description": "A salad of mixed vegetables topped with a spicy peanut sauce, a refreshing and healthy option.",
+                            "imageName": "7a572a8a5dc930c7cc399dbab2aa7ed5c17189bb"
+                        },
+                        {
+                            "priceInK": 23.0,
+                            "name": "Ayam Goreng dan Nasi",
+                            "description": "Fried chicken served with rice, a classic Indonesian comfort food.",
+                            "imageName": "263f4cecd9e489a8fdb005dbad5726763bc370f1"
+                        },
+                        {
+                            "priceInK": 18.0,
+                            "name": "Ayam Goreng",
+                            "description": "Crispy fried chicken, seasoned to perfection, a favorite among many.",
+                            "imageName": "8feca46825879d03a4c704263b936c0fd0488f5b"
+                        }
+                    ]
+                    
+                }
+            ]
+        },
+        {
+            "name": "The Breeze - Food Court",
+            "latitude": -6.301573260233978,
+            "longitude": 106.65515741106492,
+            "stalls": [
+                {
+                    "priceLevelString": "$$",
+                    "name": "UENA Mie Chili Oil",
+                    "description": "Stall specializing in noodles with chili oil (Mie Chili Oil) and other variations like Mie Ayam Asin and Mie Yamin Manis.",
+                    "imageName": "UENA MIE CHILI OIL",
+                    "items": [
+                        {
+                            "priceInK": 14.0,
+                            "name": "Mie Chili Oil",
+                            "description": "Noodles with signature chili oil",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 17.0,
+                            "name": "Mie Ayam Asin",
+                            "description": "Savory chicken noodles",
+                            "imageName": null
+                        },
+                        {
+                            "id": "C3D7E8F9-0A12-4B23-CD45-678EF1234567",
+                            "priceInK": 19.0,
+                            "name": "Mie Yamin Manis",
+                            "description": "Sweet soy sauce chicken noodles",
+                            "imageName": null
+                        }
+                    ]
+                },
+                {
+                    "priceLevelString": "$$$",
+                    "name": "Pondok Bakso Pak Joko",
+                    "description": "Stall specializing in various types of Indonesian meatball soup (Bakso), also offering drinks and frozen food.",
+                    "imageName": "PONDOK BAKSO PAK JOKO",
+                    "items": [
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Campur",
+                            "description": "Mixed meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Urat",
+                            "description": "Tendon meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Halus",
+                            "description": "Smooth meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Telur",
+                            "description": "Egg-filled meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Keju",
+                            "description": "Cheese-filled meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 25.0,
+                            "name": "Bakso Mercon",
+                            "description": "Spicy 'firecracker' meatball soup",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 8.0,
+                            "name": "Soft Drink",
+                            "description": "Canned or bottled soft drink",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 10.0,
+                            "name": "Aneka Jus",
+                            "description": "Various fruit juices",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 5.0,
+                            "name": "Air Mineral",
+                            "description": "Mineral water",
+                            "imageName": null
+                        },
+                        {
+                            "priceInK": 3.0,
+                            "name": "Kerupuk",
+                            "description": "Crackers",
+                            "imageName": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
